@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <title>Puntos críticos de siniestros de tránsito 2019</title>
+
+    <!-- Librería CSS de Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <!-- Librería CSS Mapbox -->
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.5.1/mapbox-gl.css" rel="stylesheet">
+
+</head>
+
+<body>
+    <div class="container-fluid">
+
+        <h1>Accidentes de tránsito en la RM, estudio de caso: Independencia</h1>
+
+        <p>El accidente de tránsito se define como: “Acontecimiento
+            producido por uno o más vehículos y/o peatones con 
+            consecuencia de daños para las
+            personas o bienes involucrados en él”, el punto crítico consiste en la 
+            recurrencia de dicho acontecimiento en un punto específico de una comuna</p>
+
+            <div class="row align-items-center">
+   
+            <div class="col">
+
+            <img src="https://images2-mega.cdn.mdstrm.com/meganoticias/2021/09/18/_352093_1_61457ee2ca619.jpeg?d=950x535">
+
+            </div>
+
+            <div class="col">
+
+                <div>
+                <div class="alert alert-primary" role="alert">
+                    Esta imagen es un ejemplo de los accidentes de 
+                    tránsito ocasionados en la Región Metropolitana en 2019
+                </div>
+            </div>
+
+
+    <!--
+            Desplegar Mapa y cuadros informativos en mapa.
+        -->
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-4">
+                    <h1>Accidentes de tránsito en Independencia</h1>
+                </div>
+                <div class="col">
+                    <div id="MapaComuna" style="width: 100%; height: 450px;"></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <div id="Mapa97" style="width: 100%; height: 450px;"></div>
+                </div>
+                <div class="col-md-4">
+                    Información de bencineras de 97 octanos en el norte de Chile
+
+                    <form class="row g-3">
+                        <div class="col-auto">
+                            <label for="staticEmail2" class="visually-hidden">Precio máximo</label>
+                        </div>
+                        <div class="col-auto">
+                            <input type="text" class="form-control" id="precio_max" placeholder="2000">
+                        </div>
+                        <div class="col-auto">
+                            <button id="boton_filtrar" type="button" class="btn btn-primary mb-3">Filtrar</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+    </div>
+</div>
+
+ <!-- Librería JS Bootstrap -->
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+ integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+ crossorigin="anonymous"></script>
+
+<!-- Librería JS Plotly -->
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-locale-es-latest.js"></script>
+
+<!-- Librería JS Mapbox -->
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.5.1/mapbox-gl.js"></script>
+
+<!-- Librería propia para información en Mapa -->
+<script src="javascript/map.js"></script>
+<script src="javascript/mapa_bencineras.js"></script>
+
+</body>
+
+</html>

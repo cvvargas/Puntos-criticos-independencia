@@ -1,0 +1,29 @@
+{
+  "name": "independencia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "http-server output/",
+    "etl:web": "node trabajo_final/ejemploaccidente-web.js",
+    "etl:xlsx": "node trabajo_final/etl-puntos_criticos.js",
+    "etl:api": "node trabajo_final/api.js"
+  
+  },
+  "keywords": [
+    "ETL",
+    "NodeJS",
+    "XLSX"
+  ],
+  "author": "Carolina Vargas",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "cheerio": "^1.0.0-rc.10",
+    "csv-writer": "^1.6.0",
+    "xlsx": "^0.17.3"
+  },
+  "devDependencies": {
+    "http-server": "^13.0.2"
+  }
+}

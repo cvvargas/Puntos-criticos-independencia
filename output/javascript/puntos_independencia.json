@@ -1,0 +1,167 @@
+{
+    "3": {
+        "COMUNA": "INDEPENDENCIA",
+        "FID": 4,
+        "FALLECIDOS": 0,
+        "GRAVES": 0,
+        "MENOS_GRAVES": 1,
+        "LEVES": 2,
+        "ACCIDENTES": 7,
+        "GEO_LAT": "-33.43153",
+        "GEO_LON": "-70.65270"
+    },
+    "8": {
+        "COMUNA": "INDEPENDENCIA",
+        "FID": 9,
+        "FALLECIDOS": 0,
+        "GRAVES": 1,
+        "MENOS_GRAVES": 0,
+        "LEVES": 1,
+        "ACCIDENTES": 7,
+        "GEO_LAT": "-33.43191",
+        "GEO_LON": "-70.65158"
+    },
+    "667": {
+        "COMUNA": "INDEPENDENCIA",
+        "FID": 668,
+        "FALLECIDOS": 0,
+        "GRAVES": 1,
+        "MENOS_GRAVES": 1,
+        "LEVES": 4,
+        "ACCIDENTES": 8,
+        "GEO_LAT": "-33.40636",
+        "GEO_LON": "-70.68053"
+    },
+    "673": {
+        "COMUNA": "INDEPENDENCIA",
+        "FID": 674,
+        "FALLECIDOS": 0,
+        "GRAVES": 2,
+        "MENOS_GRAVES": 0,
+        "LEVES": 2,
+        "ACCIDENTES": 14,
+        "GEO_LAT": "-33.41381",
+        "GEO_LON": "-70.67952"
+    },
+    "734": {
+        "COMUNA": "INDEPENDENCIA",
+        "FID": 735,
+        "FALLECIDOS": 0,
+        "GRAVES": 0,
+        "MENOS_GRAVES": 0,
+        "LEVES": 2,
+        "ACCIDENTES": 8,
+        "GEO_LAT": "-33.41560",
+        "GEO_LON": "-70.66432"
+    },
+    "742": {
+        "COMUNA": "INDEPENDENCIA",
+        "FID": 743,
+        "FALLECIDOS": 0,
+        "GRAVES": 2,
+        "MENOS_GRAVES": 0,
+        "LEVES": 2,
+        "ACCIDENTES": 7,
+        "GEO_LAT": "-33.42417",
+        "GEO_LON": "-70.66194"
+    },
+    "744": {
+        "COMUNA": "INDEPENDENCIA",
+        "FID": 745,
+        "FALLECIDOS": 0,
+        "GRAVES": 1,
+        "MENOS_GRAVES": 0,
+        "LEVES": 6,
+        "ACCIDENTES": 8,
+        "GEO_LAT": "-33.41568",
+        "GEO_LON": "-70.66191"
+    },
+    "750": {
+        "COMUNA": "INDEPENDENCIA",
+        "FID": 751,
+        "FALLECIDOS": 0,
+        "GRAVES": 0,
+        "MENOS_GRAVES": 1,
+        "LEVES": 3,
+        "ACCIDENTES": 6,
+        "GEO_LAT": "-33.40697",
+        "GEO_LON": "-70.66105"
+    },
+    "751": {
+        "COMUNA": "INDEPENDENCIA",
+        "FID": 752,
+        "FALLECIDOS": 0,
+        "GRAVES": 0,
+        "MENOS_GRAVES": 0,
+        "LEVES": 1,
+        "ACCIDENTES": 6,
+        "GEO_LAT": "-33.42678",
+        "GEO_LON": "-70.66104"
+    },
+    "756": {
+        "COMUNA": "INDEPENDENCIA",
+        "FID": 757,
+        "FALLECIDOS": 0,
+        "GRAVES": 1,
+        "MENOS_GRAVES": 1,
+        "LEVES": 2,
+        "ACCIDENTES": 7,
+        "GEO_LAT": "-33.42815",
+        "GEO_LON": "-70.66053"
+    },
+    "778": {
+        "COMUNA": "INDEPENDENCIA",
+        "FID": 779,
+        "FALLECIDOS": 0,
+        "GRAVES": 0,
+        "MENOS_GRAVES": 0,
+        "LEVES": 2,
+        "ACCIDENTES": 5,
+        "GEO_LAT": "-33.41559",
+        "GEO_LON": "-70.65724"
+    },
+    "785": {
+        "COMUNA": "INDEPENDENCIA",
+        "FID": 786,
+        "FALLECIDOS": 0,
+        "GRAVES": 0,
+        "MENOS_GRAVES": 0,
+        "LEVES": 0,
+        "ACCIDENTES": 5,
+        "GEO_LAT": "-33.41764",
+        "GEO_LON": "-70.65642"
+    },
+    "789": {
+        "COMUNA": "INDEPENDENCIA",
+        "FID": 790,
+        "FALLECIDOS": 0,
+        "GRAVES": 0,
+        "MENOS_GRAVES": 0,
+        "LEVES": 1,
+        "ACCIDENTES": 5,
+        "GEO_LAT": "-33.42191",
+        "GEO_LON": "-70.65555"
+    },
+    "792": {
+        "COMUNA": "INDEPENDENCIA",
+        "FID": 793,
+        "FALLECIDOS": 0,
+        "GRAVES": 0,
+        "MENOS_GRAVES": 0,
+        "LEVES": 5,
+        "ACCIDENTES": 5,
+        "GEO_LAT": "-33.42523",
+        "GEO_LON": "-70.65470"
+    },
+    "796": {
+        "COMUNA": "INDEPENDENCIA",
+        "FID": 797,
+        "FALLECIDOS": 0,
+        "GRAVES": 0,
+        "MENOS_GRAVES": 0,
+        "LEVES": 2,
+        "ACCIDENTES": 5,
+        "GEO_LAT": "-33.42757",
+        "GEO_LON": "-70.65421"
+    }
+}
